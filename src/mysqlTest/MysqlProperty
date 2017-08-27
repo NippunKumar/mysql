@@ -1,0 +1,4 @@
+# this file lists parameters for connecting to the MySQL server
+user=cbuser
+password=cbpass
+host=localhost
